@@ -37,7 +37,7 @@ public class CreateDemo {
             session.beginTransaction();
             
             // save the instructor
-            // Node: this will ALSO save the details of object
+            // Note: this will ALSO save the details of object
             // because of CascadeType.ALL
             //
             
